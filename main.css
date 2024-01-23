@@ -4,6 +4,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    text-align: justify;
 }
 
 .navbar{
@@ -74,6 +75,10 @@ span{
     background-color: #b75bae;
     color: white;
 }
+.sobre-texto{
+    padding: 24px;
+}
+
 #sobre-nos img{
     width: 720;
     height: 350px;
